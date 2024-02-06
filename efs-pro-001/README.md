@@ -163,11 +163,13 @@ mv /tmp/img-backup/* /var/www/html/images/
 ## Screenshots to Capture
 
 1. `efs-wave-image` security group inbound rule
-2. EFS file system creation page
-3. Access point details page
-4. `/etc/fstab` entry
-5. `df -h` output showing EFS mount
-6. AMI creation screen
+   ![efs-wave-image](screenshots/efs-wave-image.png)
+2. EFS file system creation page  
+   ![EFS](screenshots/EFS_file.png)
+3. Access point details page  
+   ![Accesspoint](screenshots/accessPoint.png)
+4. `df -h` output showing EFS mount
+   ![EFSMount](screenshots/EFSmount.png)
 
 ---
 
